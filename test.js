@@ -6,3 +6,7 @@ if (a < b) {
 else if (a > b) {
     return "false";
 }
+
+function sayHello() {
+    console.log("hello");
+}
