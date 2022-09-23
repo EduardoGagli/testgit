@@ -10,3 +10,7 @@ if (a > b) {
 function sayHello() {
     console.log("hello");
 }
+
+function test() {
+    console.log("todo");
+}
